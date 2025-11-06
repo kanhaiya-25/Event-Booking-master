@@ -8,4 +8,5 @@ Instructions:
 - Each folder contains a `.env.sample` file — copy to `.env` / `.env.local` and adjust.
 - Backend expects PostgreSQL and Prisma.
 - See earlier assistant messages for full run instructions.
+- this is not complete yet
 
