@@ -10,6 +10,3 @@ content-type: application/json
 #   "email": "test5@example.com",
 #   "password": "test"
 # }
-
-#store all login data
-#store all the data
